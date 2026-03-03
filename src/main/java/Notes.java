@@ -58,7 +58,5 @@ class Notes {
 
 		// System.out.println(Math.sqrt(4));
 		// System.out.println(Math.sqrt(6));
-
-		//all math functions available at https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html
 	}
 }
